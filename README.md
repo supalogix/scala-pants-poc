@@ -1,5 +1,5 @@
 # Experiment with Pants and Scala
 
-`bash
+```bash
 ./pants run :jvm-run-example
-`
+```
